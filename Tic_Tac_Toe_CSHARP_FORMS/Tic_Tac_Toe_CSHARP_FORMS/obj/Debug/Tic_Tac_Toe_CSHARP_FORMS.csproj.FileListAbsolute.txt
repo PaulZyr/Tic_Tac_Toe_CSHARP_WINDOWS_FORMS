@@ -1,0 +1,10 @@
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\bin\Debug\Tic_Tac_Toe_CSHARP_FORMS.exe.config
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\bin\Debug\Tic_Tac_Toe_CSHARP_FORMS.exe
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\bin\Debug\Tic_Tac_Toe_CSHARP_FORMS.pdb
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\obj\Debug\Tic_Tac_Toe_CSHARP_FORMS.MainForm.resources
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\obj\Debug\Tic_Tac_Toe_CSHARP_FORMS.Properties.Resources.resources
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\obj\Debug\Tic_Tac_Toe_CSHARP_FORMS.csproj.GenerateResource.cache
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\obj\Debug\Tic_Tac_Toe_CSHARP_FORMS.csproj.CoreCompileInputs.cache
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\obj\Debug\Tic_Tac_Toe_CSHARP_FORMS.exe
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\obj\Debug\Tic_Tac_Toe_CSHARP_FORMS.pdb
+D:\paul_zyr_docs\vs2019repos\Windows Forms\Tic_Tac_Toe_CSHARP_FORMS\Tic_Tac_Toe_CSHARP_FORMS\obj\Debug\Tic_Tac_Toe_CSHARP_FORMS.csprojAssemblyReference.cache
